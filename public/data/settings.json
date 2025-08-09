@@ -5,20 +5,20 @@
 
     "preloader": {
         "enabled": true,
-        "title": "Michael's <b>Portfolio</b>",
-        "subtitle": "by Michael Adetona"
+        "title": "Adebayo's <b>Portfolio</b>",
+        "subtitle": "by Adebayo Otomuola"
     },
 
     "profile": {
-        "name": "Mark Choi",
-        "stylizedName": "<strong>Michael **Adetona**</strong>",
+        "name": "Adebayo Otomuola",
+        "stylizedName": "<strong>Adebayo **Otomuola**</strong>",
         "logoUrl": "images/svg/logo.svg",
-        "profilePictureUrl": "images/pictures/avatar.jpeg",
+        "profilePictureUrl": "images/pictures/avatar-pc.png",
 
         "locales": {
-            "en": {"role": "Full Stack Engineer"},
+            "en": {"role": "Backend Engineer"},
             "es": {"role": "Desarrollador Web"},
-            "fr": {"role": "Développeur Web"},
+            "fr": {"role": "Ingénieur back-end"},
             "ko": {"role": "웹 개발자"}
         }
     },
@@ -37,15 +37,14 @@
 
     "supportedThemes": [
         {
-            "id": "dark",
-            "default": true,
-            "icon": "fa-solid fa-moon"
-        },
-
-        {
             "id": "light",
-            "default": false,
+            "default": true,
             "icon": "fa-solid fa-sun"
+        },
+        {
+            "id": "dark",
+            "default": false,
+            "icon": "fa-solid fa-moon"
         }
     ],
 
@@ -56,23 +55,10 @@
             "flagUrl": "images/flags/ng.png",
             "default": true
         },
-
-        {
-            "name": "Español",
-            "id": "es",
-            "flagUrl": "images/flags/es.png"
-        },
-
         {
             "name": "Français",
             "id": "fr",
             "flagUrl": "images/flags/fr.png"
-        },
-
-        {
-            "name": "한국어",
-            "id": "ko",
-            "flagUrl": "images/flags/ko.png"
         }
     ],
 
