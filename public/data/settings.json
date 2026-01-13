@@ -16,7 +16,7 @@
         "profilePictureUrl": "images/pictures/avatar-pc.png",
 
         "locales": {
-            "en": {"role": "Backend Engineer"},
+            "en": {"role": "Full-stack Engineer"},
             "es": {"role": "Desarrollador Web"},
             "fr": {"role": "Ingénieur back-end"},
             "ko": {"role": "웹 개발자"}

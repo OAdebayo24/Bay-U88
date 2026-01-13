@@ -107,6 +107,139 @@
             ]
         },
         {
+            "id": "frontend_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Frontend"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-js",
+                        "faColors": {
+                            "bg": "#339933",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "06/6/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Javascript",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-html",
+                        "faColors": {
+                            "bg": "#306998",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/06/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "CSS",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-react-js",
+                        "faColors": {
+                            "bg": "#306998",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/06/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "ReactJs",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-tailwind",
+                        "faColors": {
+                            "bg": "#4479A1",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "06/6/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Tailwind CSS",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-next-js",
+                        "faColors": {
+                            "bg": "#47A248",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 50,
+                    "dates": {
+                        "start": "06/20/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "NextJs",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-git",
+                        "faColors": {
+                            "bg": "#F05032",
+                            "fill": "#111"
+                        }
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "06/06/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Git",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+        
+        {
             "id": "backend_programming",
             "component": "ArticleList",
             "config": {},
