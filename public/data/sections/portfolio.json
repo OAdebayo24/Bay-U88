@@ -314,7 +314,7 @@
                 {
                     "categoryId": "apps",
                     "icon": {
-                        "img": "images/pictures/blogIcon.png",
+                        "img": "images/pictures/bill.jpeg",
                         "fa": "",
                         "faColors": {
                             "bg": null,
@@ -344,8 +344,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Expense tracker website",
-                            "text": "A website built with <b>ReactJS</b>, where users can convinently keep record of their expenses.",
+                            "title": "Bill tracker website",
+                            "text": "A website built with <b>ReactJS</b>, where users can convinently keep records of their bills.",
                             "tags": [
                                 "",
                                 ""
