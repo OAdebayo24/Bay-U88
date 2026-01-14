@@ -38,18 +38,17 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Backend** Engineer",
-                            "info": "Bus Rental.",
-                            "text": "Contributed to the development of robust backend systems for a bus rental service, integrating third-party services and improving data processing efficiency.",
+                            "title": "**Frontend** Engineer",
+                            "info": "Bill Tracker",
+                            "text": "Developed a solution that helps users track and manage their bills. A scalable and efficient platform.",
                             "tags": [
-                                "ExpressJS",
-                                "REST",
-                                "Paystack"
+                                "ReactJS",
+                                "Tailwind CSS"
                             ]
                         },
                         "fr": {
                             "title": "Ingénieur **Backend**",
-                            "info": "Bus Rental.",
+                            "info": "Adobe Inc.",
                             "text": "J'ai contribué au développement de systèmes backend solides pour Adobe Creative Cloud, intégrant des services tiers et améliorant l'efficacité du traitement des données grâce aux fonctions cloud.",
                             "tags": null
                         }
@@ -110,17 +109,17 @@
                     "locales": {
                         "en": {
                             "title": "**Backend** Engineer",
-                            "info": "EdTech.",
-                            "text": "Developed an EdTech solution platform that simulates exams and test for high school and A-level students. Implenting data processing and efficiency.",
+                            "info": "Bus Rental.",
+                            "text": "Contributed to the development of robust backend systems for a bus rental service, integrating third-party services and improving data processing efficiency.",
                             "tags": [
-                                "NestJS",
-                                "PostgreSQL",
-                                "REST"
+                                "ExpressJS",
+                                "REST",
+                                "Paystack"
                             ]
                         },
                         "fr": {
                             "title": "Ingénieur **Backend**",
-                            "info": "Adobe Inc.",
+                            "info": "Bus Rental.",
                             "text": "J'ai contribué au développement de systèmes backend solides pour Adobe Creative Cloud, intégrant des services tiers et améliorant l'efficacité du traitement des données grâce aux fonctions cloud.",
                             "tags": null
                         }
